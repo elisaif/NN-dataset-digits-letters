@@ -1,0 +1,13 @@
+{
+  "id" : "https://elisaif.github.io/NN-dataset-digits-letters/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in elisaif/NN-dataset-digits-letters project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/manifests/Letters_digits_manifest.json",
+    "label" : "Numbers_Letters"
+  } ]
+}
