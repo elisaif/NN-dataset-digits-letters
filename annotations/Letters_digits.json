@@ -1,0 +1,338 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/annotations/Letters_digits.json",
+  "@type" : "sc:Manifest",
+  "label" : "Numbers_Letters",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Handwritten numbers (1, 4, 9) and letters (A, B)",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1389c5b3-a903-473a-8ff6-2012731b5c33",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://abdb68da-086b-4605-9d0c-48d5c5c8ab23",
+      "@type" : "sc:Canvas",
+      "label" : "Number one (first)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ad4d3801-23ff-4673-9d17-dbff335c1043",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/1_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/1_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://abdb68da-086b-4605-9d0c-48d5c5c8ab23"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/6631b6f4b8f45f1e15387af1dd3c1dcd.json",
+        "label" : "Annotations for canvas Number one (first)"
+      } ]
+    }, {
+      "@id" : "http://fed18c4d-d91b-4958-aa4e-9ab049b886d2",
+      "@type" : "sc:Canvas",
+      "label" : "Number one (second)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://831fc9ad-30dc-45fb-bd4a-3e73295ed971",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/1_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/1_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://fed18c4d-d91b-4958-aa4e-9ab049b886d2"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/7f278f37e56a9c117f9d5624ec2dbce3.json",
+        "label" : "Annotations for canvas Number one (second)"
+      } ]
+    }, {
+      "@id" : "http://98a8a56a-7c31-4794-841f-79342abb7978",
+      "@type" : "sc:Canvas",
+      "label" : "Number four (first)",
+      "height" : 112,
+      "width" : 112,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c63e751a-aa98-4fa6-a695-8d6e97db11c1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/4_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/4_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 112,
+          "width" : 112
+        },
+        "on" : "http://98a8a56a-7c31-4794-841f-79342abb7978"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/491a75e013326cda57f4e972ae3eb668.json",
+        "label" : "Annotations for canvas Number four (first)"
+      } ]
+    }, {
+      "@id" : "http://2e797801-6891-4692-905e-6166942d5d5e",
+      "@type" : "sc:Canvas",
+      "label" : "Number four (second)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f8d73eb-2015-4ee2-88a2-facbd8175d6e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/4_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/4_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://2e797801-6891-4692-905e-6166942d5d5e"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/b63f5734d3407fd65983b765c67351ce.json",
+        "label" : "Annotations for canvas Number four (second)"
+      } ]
+    }, {
+      "@id" : "http://91dd9119-a3d0-4b3b-ae54-e372b2cc6a5e",
+      "@type" : "sc:Canvas",
+      "label" : "Number nine (first)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e0ec37e7-0cd3-40e8-84f7-dbb85421ceaa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/9_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/9_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://91dd9119-a3d0-4b3b-ae54-e372b2cc6a5e"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/7c3ce99b91f8cd4fb5fabff0d0d23920.json",
+        "label" : "Annotations for canvas Number nine (first)"
+      } ]
+    }, {
+      "@id" : "http://0ebed12f-a8f5-47d1-8951-fc092e6eecef",
+      "@type" : "sc:Canvas",
+      "label" : "Number nine (second)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5bca17db-092c-4aee-8fd9-6b4fa73ee19b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/9_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/9_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://0ebed12f-a8f5-47d1-8951-fc092e6eecef"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/094249566b02707733a53ace9203ecf1.json",
+        "label" : "Annotations for canvas Number nine (second)"
+      } ]
+    }, {
+      "@id" : "http://aedac115-c4bf-4491-9085-4d35883d4596",
+      "@type" : "sc:Canvas",
+      "label" : "Letter A (first)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f8de44b0-f21c-4ab9-85b3-204016a55248",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/A_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/A_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://aedac115-c4bf-4491-9085-4d35883d4596"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/734c00d43131495f0cf747d35e76a991.json",
+        "label" : "Annotations for canvas Letter A (first)"
+      } ]
+    }, {
+      "@id" : "http://74cd15c9-43b3-42dc-83ea-93dbc31bfb20",
+      "@type" : "sc:Canvas",
+      "label" : "Letter A (second)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://172ce452-b03f-4162-9bfd-0d61c3771f02",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/A_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/A_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://74cd15c9-43b3-42dc-83ea-93dbc31bfb20"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/77958ad078dc46405fa9ac5747293842.json",
+        "label" : "Annotations for canvas Letter A (second)"
+      } ]
+    }, {
+      "@id" : "http://bda48303-4146-4aa6-8d0d-6b0eeae18b45",
+      "@type" : "sc:Canvas",
+      "label" : "Letter B (first)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://495463d8-a768-446f-a9ea-9b8616545439",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/B_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/B_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://bda48303-4146-4aa6-8d0d-6b0eeae18b45"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/f753371176167e4fd8ec9b941daa5460.json",
+        "label" : "Annotations for canvas Letter B (first)"
+      } ]
+    }, {
+      "@id" : "http://de931c7b-308c-457b-8e58-f54e60ba60a4",
+      "@type" : "sc:Canvas",
+      "label" : "Letter B (second)",
+      "height" : 336,
+      "width" : 336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b990ec5b-566e-4415-8cb4-d8de93e2594a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/B_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/images/B_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 336,
+          "width" : 336
+        },
+        "on" : "http://de931c7b-308c-457b-8e58-f54e60ba60a4"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/192339260/7bf4520c169d461a82e7892b50a8ad90.json",
+        "label" : "Annotations for canvas Letter B (second)"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/192339260/74912791a4ef720b502d0d30d2b5c3c8/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
