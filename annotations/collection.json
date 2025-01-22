@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://elisaif.github.io/NN-dataset-digits-letters/annotations/Letters_digits.json" ],
+  "@id" : "https://elisaif.github.io/NN-dataset-digits-letters/annotations/collection.json",
+  "label" : "All annotations loaded in elisaif/NN-dataset-digits-letters project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
